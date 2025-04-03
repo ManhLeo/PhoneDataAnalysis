@@ -1,0 +1,537 @@
+STT,name,brand,price,processor,ram,storage,battery,charging
+1,Samsung Galaxy A26 5G 6GB/128GB,Samsung,6590000,Exynos 1380 8 nhân,6 GB,128GB,5000 mAh,25 W
+2,realme C75x 8GB/128GB,realme,4690000,MediaTek Helio G81-Ultra 8 nhân,6 GB,128GB,5600 mAh,45 W
+3,iPhone 16e 128GB,iPhone,16590000,Apple A18 6 nhân,8 GB,128 GB,26 gi?,20 W
+4,iPhone 16e 256GB,iPhone,19490000,Apple A18 6 nhân,8 GB,256 GB,26 gi?,20 W
+5,iPhone 16e 512GB,iPhone,24590000,Apple A18 6 nhân,8 GB,512 GB,26 gi?,20 W
+6,iPhone 16 Pro Max 256GB,iPhone,31190000,Apple A18 Pro 6 nhân,8 GB,256 GB,33 gi?,20 W
+7,iPhone 16 Pro Max 512GB,iPhone,37790000,Apple A18 Pro 6 nhân,8 GB,512 GB,33 gi?,20 W
+8,iPhone 16 Pro Max 1TB,iPhone,43390000,Apple A18 Pro 6 nhân,8 GB,1 TB,33 gi?,20 W
+9,Samsung Galaxy A56 5G 8GB/128GB,Samsung,9790000,Exynos 1580 8 nhân,8 GB,128 GB,5000 mAh,45 W
+10,Samsung Galaxy A56 5G 8GB/256GB,Samsung,10790000,Exynos 1580 8 nhân,8 GB,256 GB,5000 mAh,45 W
+11,Samsung Galaxy A56 5G 12GB/256GB,Samsung,11790000,Exynos 1580 8 nhân,12 GB,256 GB,5000 mAh,45 W
+12,Samsung Galaxy S25 Ultra 5G 12GB/256GB,Samsung,28990000,Qualcomm Snapdragon 8 Elite For Galaxy 8 nhân,12 GB,256 GB,5000 mAh,45 W
+13,Samsung Galaxy S25 Ultra 5G 12GB/512GB,Samsung,31790000,Qualcomm Snapdragon 8 Elite For Galaxy 8 nhân,12 GB,512 GB,5000 mAh,45 W
+14,Samsung Galaxy S25 Ultra 5G 12GB/1TB,Samsung,38090000,Qualcomm Snapdragon 8 Elite For Galaxy 8 nhân,12 GB,1 TB,5000 mAh,45 W
+15,Xiaomi Redmi Note 14 8GB/128GB,Xiaomi,,MediaTek Helio G99-Ultra 8 nhân,8 GB,128 GB,5500 mAh,33 W
+16,Xiaomi Redmi Note 14 8GB/256GB,Xiaomi,6290000,MediaTek Helio G99-Ultra 8 nhân,8 GB,256 GB,5500 mAh,33 W
+17,Xiaomi Redmi Note 14 6GB/128GB,Xiaomi,4590000,MediaTek Helio G99-Ultra 8 nhân,6 GB,128 GB,5500 mAh,33 W
+18,Xiaomi Redmi Note 14 Pro 8GB/256GB,Xiaomi,7690000,MediaTek Helio G100-Ultra 8 nhân,8 GB,256 GB,5500 mAh,45 W
+19,OPPO Find N5 5G 16GB/512GB,OPPO,44990000,Qualcomm Snapdragon 8 Elite 8 nhân,16 GB,512GB,5600 mAh,80 W
+20,OPPO Reno13 5G 12GB/256GB,OPPO,15590000,MediaTek Dimensity 8350 5G 8 nhân,12 GB,256 GB,5600 mAh,80 W
+21,OPPO Reno13 5G 12GB/512GB,OPPO,16590000,MediaTek Dimensity 8350 5G 8 nhân,12 GB,512 GB,5600 mAh,80 W
+22,realme C75 8GB/128GB,realme,5690000,MediaTek Helio G92 Max 8 nhân,8 GB,128 GB,6000 mAh,45 W
+23,realme C75 8GB/256GB,realme,6490000,MediaTek Helio G92 Max 8 nhân,8 GB,256 GB,6000 mAh,45 W
+24,realme C75 8GB/512GB,realme,6690000,MediaTek Helio G92 Max 8 nhân,8 GB,512 GB,6000 mAh,45 W
+25,vivo V40 Lite 8GB/256GB,vivo,7490000,,8 GB,256 GB,5000 mAh,80 W
+26,HONOR X9c Smart 5G 12GB/256GB,HONOR,7490000,MediaTek Dimensity 7025-Ultra 5G 8 nhân,12 GB,256 GB,5800 mAh,35 W
+27,HONOR X9c 5G 12GB/256GB,HONOR,8990000,Snapdragon 6 Gen 1 5G 8 nhân,12 GB,256 GB,6600 mAh,66 W
+28,Tecno Spark 30 8GB/128GB,Tecno,3590000,MediaTek Helio G91 Ultra 8 nhân,8 GB,128 GB,5000 mAh,18 W
+29,TCL 406s 4GB/64GB,TCL,1890000,,4 GB,64 GB,5000 mAh,10 W
+30,iPhone 16 Plus 128GB,iPhone,22690000,Apple A18 6 nhân,8 GB,128 GB,27 gi?,20 W
+31,iPhone 16 Plus 512GB,iPhone,31990000,Apple A18 6 nhân,8 GB,512 GB,27 gi?,20 W
+32,iPhone 16 Plus 256GB,iPhone,25990000,Apple A18 6 nhân,8 GB,256 GB,27 gi?,20 W
+33,iPhone 16 128GB,iPhone,19290000,Apple A18 6 nhân,8 GB,128 GB,22 gi?,20 W
+34,iPhone 16 256GB,iPhone,22990000,Apple A18 6 nhân,8 GB,256 GB,22 gi?,20 W
+35,iPhone 16 512GB,iPhone,28990000,Apple A18 6 nhân,8 GB,512 GB,22 gi?,20 W
+36,Samsung Galaxy S24 Ultra 5G 12GB/256GB,Samsung,23990000,Snapdragon 8 Gen 3 for Galaxy,12 GB,256 GB,5000 mAh,45 W
+37,Samsung Galaxy S24 Ultra 5G 12GB/512GB,Samsung,26090000,Snapdragon 8 Gen 3 for Galaxy,12 GB,512 GB,5000 mAh,45 W
+38,Samsung Galaxy A16 5G 8GB/256GB,Samsung,6990000,MediaTek Dimensity 6300 5G 8 nhân,8 GB,256 GB,5000 mAh,25 W
+39,Samsung Galaxy A16 5G 8GB/128GB,Samsung,6090000,MediaTek Dimensity 6300 5G 8 nhân,8 GB,128 GB,5000 mAh,25 W
+40,Xiaomi Redmi Note 14 Pro 5G 8GB/256GB,Xiaomi,8890000,MediaTek Dimensity 7300-Ultra 8 nhân,8 GB,256 GB,5110 mAh,45 W
+41,Xiaomi Redmi Note 14 Pro+ 5G 8GB/256GB,Xiaomi,9690000,Snapdragon 7s Gen 3 5G 8 nhân,8 GB,256 GB,5110 mAh,120 W
+42,OPPO Reno13 Pro 5G 12GB/512GB,OPPO,18490000,MediaTek Dimensity 8350 5G 8 nhân,12 GB,512 GB,5800 mAh,80 W
+43,OPPO Reno13 F 8GB/256GB,OPPO,8790000,MediaTek Helio G100 8 nhân,8 GB,256 GB,5800 mAh,45 W
+44,realme C65s 8GB/128GB,realme,4190000,Unisoc Tiger T612,8 GB,128 GB,5000 mAh,45 W
+45,realme C65s 6GB/128GB,realme,3690000,Unisoc Tiger T612,6 GB,128 GB,5000 mAh,45 W
+46,realme C65s 8GB/256GB,realme,4990000,Unisoc Tiger T612,8 GB,256 GB,5000 mAh,45 W
+47,vivo Y29 8GB/128GB,vivo,6490000,,8 GB,128 GB,6500 mAh,44 W
+48,vivo Y29 8GB/256GB,vivo,6990000,,8 GB,256 GB,6500 mAh,44 W
+49,HONOR X5b Plus 4GB/128GB,HONOR,2790000,,4 GB,128 GB,5200 mAh,10 W
+50,HONOR X5b 4GB/64GB,HONOR,2190000,,4 GB,64 GB,5200 mAh,10 W
+51,Samsung Galaxy Z Fold6 5G 12GB/256GB,Samsung,35690000,Snapdragon 8 Gen 3 for Galaxy,12 GB,256 GB,4400 mAh,25 W
+52,Samsung Galaxy Z Fold6 5G 12GB/512GB,Samsung,40290000,Snapdragon 8 Gen 3 for Galaxy,12 GB,512 GB,4400 mAh,25 W
+53,iPhone 15 Pro Max 256GB,iPhone,29990000,,8 GB,256 GB,4422 mAh,20 W
+54,iPhone 15 Pro Max 512GB,iPhone,34990000,,8 GB,512 GB,4422 mAh,20 W
+55,iPhone 15 Pro Max 1TB,iPhone,39990000,,8 GB,1 TB,4422 mAh,20 W
+56,Samsung Galaxy A06 4GB/64GB,Samsung,2890000,,4 GB,64 GB,5000 mAh,25 W
+57,Samsung Galaxy A06 6GB/128GB,Samsung,3490000,,6 GB,128 GB,5000 mAh,25 W
+58,Samsung Galaxy A06 4GB/128GB,Samsung,3190000,,4 GB,128 GB,5000 mAh,25 W
+59,iPhone 15 Plus 128GB,iPhone,19790000,Apple A16 Pro 6 nhân,6 GB,128 GB,4383 mAh,20 W
+60,iPhone 15 Plus 256GB,iPhone,22790000,Apple A16 Pro 6 nhân,6 GB,256 GB,4383 mAh,20 W
+61,iPhone 15 Plus 512GB,iPhone,28790000,Apple A16 Pro 6 nhân,6 GB,512 GB,4383 mAh,20 W
+62,Samsung Galaxy A35 5G 8GB/256GB,Samsung,6990000,,8 GB,256 GB,5000 mAh,25 W
+63,Xiaomi 15 5G 12GB/256GB,Xiaomi,21990000,Qualcomm Snapdragon 8 Elite 8 nhân,12 GB,256 GB,5240 mAh,90 W
+64,Xiaomi 15 5G 12GB/512GB,Xiaomi,22990000,Qualcomm Snapdragon 8 Elite 8 nhân,12 GB,512 GB,5240 mAh,90 W
+65,Xiaomi 15 Ultra 5G 16GB/512GB Tr?ng,Xiaomi,32990000,Qualcomm Snapdragon 8 Elite 8 nhân,16 GB,512 GB,5410 mAh,90 W
+66,OPPO A5 Pro 8GB/256GB,OPPO,6990000,Snapdragon 6s Gen 1 8 nhân,8 GB,256 GB,5800 mAh,45 W
+67,OPPO A5 Pro 5G 8GB/512GB,OPPO,8490000,MediaTek Dimensity 6300 5G 8 nhân,8 GB,256 GB,5800 mAh,45 W
+68,OPPO A60 8GB/128GB,OPPO,5490000,,8 GB,128 GB,5000 mAh,45 W
+69,OPPO A60 8GB/256GB,OPPO,5690000,,8 GB,256 GB,5000 mAh,45 W
+70,OPPO A3x 4GB/64GB,OPPO,3490000,Snapdragon 6s Gen 1 8 nhân,4 GB,64 GB,5100 mAh,45 W
+71,OPPO A3x 6GB/128GB,OPPO,4090000,Snapdragon 6s Gen 1 8 nhân,6 GB,128 GB,5100 mAh,45 W
+72,OPPO A3x 4GB/128GB,OPPO,3990000,Snapdragon 6s Gen 1 8 nhân,4 GB,128 GB,5100 mAh,45 W
+73,realme 13+ 5G 12GB/256GB,realme,9190000,MediaTek Dimensity 7300 Energy 5G 8 nhân,12 GB,256 GB,5000 mAh,80 W
+74,vivo V40 5G 12GB/256GB,vivo,12990000,Snapdragon 7 Gen 3 8 nhân,12 GB,256 GB,5500 mAh,80 W
+75,HONOR X5 Plus 4GB/64GB,HONOR,2490000,,4 GB,64 GB,5200 mAh,10 W
+76,Samsung Galaxy A05s 6GB/128GB,Samsung,3190000,,6 GB,128 GB,5000 mAh,25 W
+77,iPhone 15 128GB,iPhone,15990000,Apple A16 Pro 6 nhân,6 GB,128 GB,3349 mAh,20 W
+78,iPhone 15 256GB,iPhone,18990000,Apple A16 Pro 6 nhân,6 GB,256 GB,3349 mAh,20 W
+79,iPhone 14 Plus 512GB,iPhone,22990000,,6 GB,512 GB,4325 mAh,20 W
+80,iPhone 14 128GB,iPhone,13490000,,6 GB,128 GB,3279 mAh,20 W
+81,Samsung Galaxy S24 FE 5G 8GB/256GB,Samsung,13990000,Exynos 2400e 8 nhân,8 GB,256 GB,4700 mAh,25 W
+82,Samsung Galaxy S24 FE 5G 8GB/128GB,Samsung,12990000,Exynos 2400e 8 nhân,8 GB,128 GB,4700 mAh,25 W
+83,Samsung Galaxy A25 5G 8GB/128GB,Samsung,4990000,,8 GB,128 GB,5000 mAh,25 W
+84,Samsung Galaxy S24 5G 8GB/256GB,Samsung,14590000,Exynos 2400,8 GB,256 GB,4000 mAh,25 W
+85,Xiaomi 14T 5G 12GB/256GB,Xiaomi,10990000,MediaTek Dimensity 8300 Ultra 8 nhân,12 GB,256 GB,5000 mAh,67 W
+86,Xiaomi 14T 5G 12GB/512GB Xanh,Xiaomi,10990000,MediaTek Dimensity 8300 Ultra 8 nhân,12 GB,512 GB,5000 mAh,67 W
+87,Xiaomi 14T 5G 12GB/512GB,Xiaomi,11190000,MediaTek Dimensity 8300 Ultra 8 nhân,12 GB,512 GB,5000 mAh,67 W
+88,Xiaomi 14T Pro 5G 12GB/256GB,Xiaomi,14490000,MediaTek Dimensity 9300+ 8 nhân,12 GB,256 GB,5000 mAh,120 W
+89,Xiaomi 14T Pro 5G 12GB/512GB,Xiaomi,14490000,MediaTek Dimensity 9300+ 8 nhân,12 GB,512 GB,5000 mAh,120 W
+90,OPPO A3 8GB/128GB,OPPO,5290000,Snapdragon 6s Gen 1 8 nhân,8 GB,128 GB,5100 mAh,45 W
+91,OPPO A38 6GB/128GB,OPPO,4590000,Snapdragon 6s Gen 1 8 nhân,6 GB,128 GB,5100 mAh,45 W
+92,OPPO A3 8GB/256GB,OPPO,5990000,Snapdragon 6s Gen 1 8 nhân,8 GB,256 GB,5100 mAh,45 W
+93,Tecno Spark GO 1 3GB/64GB,Tecno,1990000,Unisoc T615 8 nhân,3 GB,64 GB,5000 mAh,15 W
+94,OPPO Reno12 F 8GB/256GB,OPPO,7290000,,8 GB,256 GB,5000 mAh,45 W
+95,vivo Y19s 6GB/128GB,vivo,4290000,Unisoc Tiger T612,6 GB,128 GB,5500 mAh,15 W
+96,vivo Y19s 4GB/128GB,vivo,3990000,Unisoc Tiger T612,4 GB,128 GB,5500 mAh,15 W
+97,vivo Y19s 8GB/128GB,vivo,4590000,Unisoc Tiger T612,8 GB,128 GB,5500 mAh,15 W
+98,HONOR X8b 8GB/512GB,HONOR,5690000,,8 GB,512 GB,4500 mAh,35 W
+99,HONOR X6b 6GB/128GB Tím,HONOR,3590000,,6 GB,128 GB,5200 mAh,35 W
+100,iPhone 13 128GB,iPhone,11990000,Apple A15 Pro ,4 GB,128 GB,3240 mAh,20 W
+101,iPhone 13 512GB,iPhone,21990000,Apple A15 Pro ,4 GB,512 GB,3240 mAh,20 W
+102,iPhone 12 64GB,iPhone,9990000,Apple A14 Bionic,4 GB,64 GB,2815 mAh,20 W
+103,iPhone 12 128GB,iPhone,11590000,Apple A14 Bionic,4 GB,128 GB,2815 mAh,20 W
+104,iPhone 12 256GB,iPhone,14990000,Apple A14 Bionic,4 GB,256 GB,2815 mAh,20 W
+105,iPhone 12 64GB,iPhone,9990000,Apple A14 Bionic,4 GB,64 GB,2815 mAh,20 W
+106,iPhone 12 128GB,iPhone,11590000,Apple A14 Bionic,4 GB,128 GB,2815 mAh,20 W
+107,Xiaomi Redmi 13 6GB/128GB,Xiaomi,3690000,MediaTek Helio G91 Ultra 8 nhân,6 GB,128 GB,5030 mAh,33 W
+108,Xiaomi Redmi 13 8GB/128GB,Xiaomi,3490000,MediaTek Helio G91 Ultra 8 nhân,8 GB,128 GB,5030 mAh,33 W
+109,Xiaomi Redmi A3 3GB/64GB,Xiaomi,1790000,,3 GB,64 GB,5000 mAh,10 W
+110,Xiaomi Redmi A3 4GB/128GB,Xiaomi,,,4 GB,128 GB,5000 mAh,10 W
+111,Samsung Galaxy S25 5G 12GB/256GB,Samsung,19290000,Qualcomm Snapdragon 8 Elite For Galaxy 8 nhân,12 GB,256 GB,4000 mAh,25 W
+112,Samsung Galaxy S25 5G 12GB/512GB,Samsung,22290000,Qualcomm Snapdragon 8 Elite For Galaxy 8 nhân,12 GB,512 GB,4000 mAh,25 W
+113,Xiaomi Redmi 14C 6GB/128GB,Xiaomi,3390000,MediaTek Helio G81-Ultra 8 nhân,6 GB,128 GB,5160 mAh,18 W
+114,Xiaomi Redmi 14C 4GB/128GB,Xiaomi,2690000,MediaTek Helio G81-Ultra 8 nhân,4 GB,128 GB,5160 mAh,18 W
+115,OPPO Find X8 5G 16GB/512GB H?ng,OPPO,21990000,MediaTek Dimensity 9400 8 nhân,16 GB,512 GB,5630 mAh,80 W
+116,OPPO Find X8 Pro 5G 16GB/512GB,OPPO,25990000,MediaTek Dimensity 9400 8 nhân,16 GB,512 GB,5910 mAh,80 W
+117,realme 12 8GB/256GB,realme,6390000,,8 GB,256 GB,5000 mAh,67 W
+118,realme 12 8GB/512GB,realme,6790000,,8 GB,512 GB,5000 mAh,67 W
+119,vivo Y04 4GB/128GB,vivo,2990000,Unisoc T7225 8 nhân,4 GB,64GB,5500 mAh,15 W
+120,realme Note 60x 4GB/64GB,realme,2990000,Unisoc Tiger T612,4 GB,64 GB,5000 mAh,10 W
+121,realme Note 60x 3GB/64GB,realme,2590000,Unisoc Tiger T612,3 GB,64 GB,5000 mAh,10 W
+122,vivo V30e 5G 12GB/256GB,vivo,8990000,Snapdragon 6 Gen 1 8 nhân,12 GB,256 GB,5500 mAh,44 W
+123,realme Note 50 3GB/64GB,realme,2490000,Unisoc Tiger T612,3 GB,64 GB,5000 mAh,10 W
+124,realme Note 50 4GB/128GB,realme,2690000,Unisoc Tiger T612,4 GB,128 GB,5000 mAh,10 W
+125,vivo V30 5G 12GB/512GB,vivo,12790000,Snapdragon 7 Gen 3 8 nhân,12 GB,512 GB,5000 mAh,80 W
+126,realme Note 60 6GB/128GB,realme,3790000,Unisoc Tiger T612,6 GB,128 GB,5000 mAh,10 W
+127,realme Note 60 4GB/64GB,realme,2890000,Unisoc Tiger T612,4 GB,64 GB,5000 mAh,10 W
+128,realme Note 60 4GB/128GB,realme,3390000,Unisoc Tiger T612,4 GB,128 GB,5000 mAh,10 W
+129,realme C61 4GB/128GB,realme,3490000,Unisoc Tiger T612,4 GB,128 GB,5000 mAh,15 W
+130,OPPO Reno13 F 5G 8GB/256GB,OPPO,9990000,Snapdragon 6 Gen 1 5G 8 nhân,8 GB,256 GB,5800 mAh,45 W
+131,OPPO Reno13 F 5G 12GB/256GB,OPPO,10690000,Snapdragon 6 Gen 1 5G 8 nhân,12 GB,256 GB,5800 mAh,45 W
+132,OPPO Reno13 F 5G 12GB/512GB,OPPO,11490000,Snapdragon 6 Gen 1 5G 8 nhân,12 GB,512 GB,5800 mAh,45 W
+133,Nokia 105 4G Pro,Nokia,680000,Unisoc T107 8 nhân,48 MB,128 MB,1450 mAh,2.75 W
+134,Viettel Sumo 4G T2,Viettel,550000,Unisoc T107,48 MB,128 MB,1400 mAh,2.5 W
+135,Xiaomi Redmi 13x 6GB/128GB,Xiaomi,3990000,MediaTek Helio G91 Ultra 8 nhân,6 GB,128GB,5030 mAh,33 W
+136,Mobell M239 4G,Mobell,420000,Unisoc UMS9117-L,48 MB,128 MB,1000 mAh,2.5W
+137,Masstel IZI 10,Masstel,410000,Unisoc UMS9117,48 MB,128 MB,1000 mAh,2.5 W
+138,Nokia 220 4G,Nokia,990000,Unisoc T107 8 nhân,64 MB,128 MB,1450 mAh,2.5 W
+139,Nokia HMD 105 4G,Nokia,650000,,,128 MB,1450 mAh,2.5 W
+140,Masstel IZI T6 4G,Masstel,500000,Unisoc T107 8 nhân,48 MB,128 MB,1800 mAh,2.5 W
+141,Benco 4G G3,Benco,380000,Unisoc T107,48 MB,128 MB,1000 mAh,2.5 W
+142,Masstel Fami 50 4G,Masstel,600000,Unisoc T107 8 nhân,48 MB,128 MB,1750 mAh,2.5 W
+143,iPhone 16 Pro 128GB,iPhone,25490000,Apple A18 Pro 6 nhân,8 GB,128 GB,27 gi?,20 W
+144,iPhone 16 Pro 256GB,iPhone,28690000,Apple A18 Pro 6 nhân,8 GB,256 GB,27 gi?,20 W
+145,iPhone 16 Pro 512GB,iPhone,34690000,Apple A18 Pro 6 nhân,8 GB,512 GB,27 gi?,20 W
+146,iPhone 16 Pro 1TB,iPhone,40790000,Apple A18 Pro 6 nhân,8 GB,1 TB,27 gi?,20 W
+147,Nokia 110 4G Pro,Nokia,750000,Unisoc T107 8 nhân,48 MB,128 MB,1450 mAh,5 W
+148,vivo Y28 8GB/128GB,vivo,5090000,,8 GB,128 GB,6000 mAh,44 W
+149,vivo Y28 8GB/256GB,vivo,5690000,,8 GB,256 GB,6000 mAh,44 W
+150,OPPO Reno12 5G 12GB/256GB H?ng,OPPO,9490000,MediaTek Dimensity 7300-Energy 5G 8 nhân,12 GB,256 GB,5000 mAh,80 W
+151,OPPO Reno12 5G 12GB/512GB,OPPO,12490000,MediaTek Dimensity 7300-Energy 5G 8 nhân,12 GB,512 GB,5000 mAh,80 W
+152,OPPO Reno12 5G 12GB/256GB,OPPO,9490000,MediaTek Dimensity 7300-Energy 5G 8 nhân,12 GB,256 GB,5000 mAh,80 W
+153,Mobell F309 4G,Mobell,760000,Unisoc T107,48 MB,128 MB,1600 mAh,2.5 W
+154,Samsung Galaxy A36 5G 8GB/128GB,Samsung,7990000,Snapdragon 6 Gen 3 8 nhân,8 GB,128 GB,5000 mAh,45 W
+155,Samsung Galaxy A36 5G 8GB/256GB,Samsung,8990000,Snapdragon 6 Gen 3 8 nhân,8 GB,256 GB,5000 mAh,45 W
+156,Samsung Galaxy A36 5G 12GB/256GB,Samsung,9990000,Snapdragon 6 Gen 3 8 nhân,12 GB,256 GB,5000 mAh,45 W
+157,vivo Y03 4GB/128GB,vivo,3290000,,4 GB,128 GB,5000 mAh,15 W
+158,vivo Y03 4GB/64GB,vivo,2690000,,4 GB,64 GB,5000 mAh,15 W
+159,Mobell M539,Mobell,700000,Unisoc T107,48 MB,128 MB,2000 mAh,2.5 W
+160,Samsung Galaxy A06 5G 6GB/128GB,Samsung,6590000,Exynos 1380 8 nhân,6 GB,128GB,5000 mAh,25 W
+161,Samsung Galaxy S25 Plus 5G 12GB/256GB,Samsung,22790000,Qualcomm Snapdragon 8 Elite For Galaxy 8 nhân,12 GB,256 GB,4900 mAh,45 W
+162,Samsung Galaxy S25 Plus 5G 12GB/512GB,Samsung,25790000,Qualcomm Snapdragon 8 Elite For Galaxy 8 nhân,12 GB,512 GB,4900 mAh,45 W
+163,HONOR X7c 8GB/256GB,HONOR,4990000,,8 GB,256 GB,6000 mAh,35 W
+164,OPPO Reno12 Pro 5G 12GB/512GB,OPPO,13990000,MediaTek Dimensity 7300-Energy 5G 8 nhân,12 GB,512 GB,5000 mAh,80 W
+165,Nokia 3210 4G,Nokia,1590000,Unisoc T107 8 nhân,64 MB,128 MB,1450 mAh,2.5W
+166,Mobell M331 4G,Mobell,550000,Unisoc T107,48 MB,128 MB,1000 mAh,2.5 W
+167,Xiaomi Redmi Note 14 5G 8GB/256GB,Xiaomi,7290000,MediaTek Dimensity 7025-Ultra 5G 8 nhân,8 GB,256 GB,5110 mAh,45 W
+168,Samsung Galaxy A55 5G 12GB/256GB,Samsung,9690000,Exynos 1480 8 nhân,12 GB,256 GB,5000 mAh,25 W
+169,Samsung Galaxy A55 5G 8GB/256GB,Samsung,8690000,Exynos 1480 8 nhân,8 GB,256 GB,5000 mAh,25 W
+170,Tecno Spark 30C 6GB/128GB,Tecno,2990000,MediaTek Helio G81 8 nhân,6 GB,128 GB,5000 mAh,18 W
+171,Samsung Galaxy Z Flip6 5G 12GB/256GB,Samsung,18490000,Snapdragon 8 Gen 3 for Galaxy,12 GB,256 GB,4000 mAh,25 W
+172,Samsung Galaxy Z Flip6 5G 12GB/512GB,Samsung,24890000,Snapdragon 8 Gen 3 for Galaxy,12 GB,512 GB,4000 mAh,25 W
+173,Mobell F209,Mobell,620000,Unisoc T107,48 MB,128 MB,1500 mAh,2.5 W
+174,Samsung Galaxy A16 8GB/128GB,Samsung,5390000,,8 GB,128 GB,5000 mAh,25 W
+175,Samsung Galaxy A16 4GB/128GB,Samsung,4590000,,4 GB,128 GB,5000 mAh,25 W
+176,Samsung Galaxy A16 8GB/256GB,Samsung,5890000,,8 GB,256 GB,5000 mAh,25 W
+177,Masstel Fami 60S 4G,Masstel,700000,Unisoc T107 8 nhân,48 MB,128 MB,2300 mAh,2.5 W
+178,vivo Y100 8GB/256GB,vivo,6490000,,8 GB,256 GB,5000 mAh,80 W
+179,vivo Y100 8GB/128GB,vivo,6090000,,8 GB,128 GB,5000 mAh,80 W
+180,vivo Y18 4GB/128GB,vivo,3790000,,4 GB,128 GB,5000 mAh,15 W
+181,vivo Y100 8GB/128GB,vivo,4290000,,8 GB,128 GB,5000 mAh,15 W
+182,OPPO Find N3 Flip 5G 12GB/256GB H?ng,OPPO,16490000,,12 GB,256 GB,4300 mAh,44 W
+183,OPPO Reno12 F 5G 12GB/256GB,OPPO,9190000,MediaTek Dimensity 6300 5G 8 nhân,12 GB,256 GB,5000 mAh,45 W
+184,OPPO Reno12 F 5G 8GB/256GB,OPPO,7490000,MediaTek Dimensity 6300 5G 8 nhân,8 GB,256 GB,5000 mAh,45 W
+185,Itel it9310,Itel,560000,,16 MB,16 MB,2000 mAh,1.75 W
+186,OPPO A38 6GB/128GB,OPPO,3890000,,6 GB,128 GB,5000 mAh,33 W
+187,Itel it9211,Itel,430000,,,1000 mAh,1000 mAh,1.75 W
+188,HONOR 200 5G 12GB/256GB,HONOR,11990000,Snapdragon 7 Gen 3 8 nhân,12 GB,256 GB,5200 mAh,100 W
+189,HONOR 200 5G 12GB/512GB,HONOR,12190000,Snapdragon 7 Gen 3 8 nhân,12 GB,512 GB,5200 mAh,100 W
+190,Samsung Galaxy M15 5G 4GB/128GB,Samsung,,,4 GB,128 GB,6000 mAh,25 W
+191,iPhone 15 Pro 1TB,iPhone,37990000,,8 GB,1 TB,3274 mAh,20 W
+192,OPPO Find N3 5G 16GB/512GB,OPPO,31990000,,16 GB,512 GB,4805 mAh,67 W
+193,OPPO A58 8GB/128GB,OPPO,4790000,,8 GB,128 GB,5000 mAh,33 W
+194,HONOR Magic V3 5G 12GB/512GB,HONOR,37990000,Snapdragon 8 Gen 3 8 nhân,12 GB,512 GB,5150 mAh,66 W
+195,HONOR X8c 8GB/256GB,HONOR,,Snapdragon 685 8 nhân,8 GB,256GB,5000 mAh,35 W
+196,Xiaomi Redmi A5 3GB/64GB,Xiaomi,2490000,?ang c?p nh?t,3 GB,64 GB,6000mAh,90W
+197,Xiaomi Redmi A5 4GB/128GB,Xiaomi,2990000,?ang c?p nh?t,4 GB,128 MB,6000mAh,90W
+198,Samsung Galaxy A27 5G 8GB/256GB,Samsung,8990000,Exynos 1380 8 nhân,8GB,256GB,5000mAh,25W
+199,Samsung Galaxy S26 Ultra 5G 16GB/512GB,Samsung,35990000,Qualcomm Snapdragon 8 Gen 3 For Galaxy 8 nhân,16GB,512GB,5000mAh,45W
+200,Samsung Galaxy Z Flip 6 5G 12GB/256GB,Samsung,29990000,Qualcomm Snapdragon 8 Gen 3 8 nhân,12GB,256GB,3700mAh,25W
+201,Samsung Galaxy Z Fold 6 5G 16GB/512GB,Samsung,44990000,Qualcomm Snapdragon 8 Gen 3 8 nhân,16GB,512GB,4500mAh,45W
+202,Xiaomi Mi 14 Ultra 16GB/512GB,Xiaomi,31990000,Qualcomm Snapdragon 8 Gen 3 8 nhân,16GB,512GB,5000mAh,50W
+203,Xiaomi Redmi Note 15 6GB/128GB,Xiaomi,4990000,MediaTek Dimensity 8300 8 nhân,6GB,128GB,5500mAh,33W
+204,OPPO Find X7 Pro 5G 16GB/1TB,OPPO,47990000,Qualcomm Snapdragon 8 Gen 3 8 nhân,16GB,1TB,5400mAh,100W
+205,realme GT Neo 6 5G 12GB/256GB,realme,13990000,MediaTek Dimensity 9000 8 nhân,12GB,256GB,5000mAh,65W
+206,Vivo V31 Pro 5G 12GB/512GB,Vivo,11990000,MediaTek Dimensity 9200 8 nhân,12GB,512GB,5000mAh,80W
+207,Vivo X100 Ultra 5G 16GB/1TB,Vivo,39990000,Qualcomm Snapdragon 8 Gen 3 8 nhân,16GB,1TB,5400mAh,100W
+208,Asus ROG Phone 8 5G 16GB/512GB,Asus,32990000,Qualcomm Snapdragon 8 Gen 3 8 nhân,16GB,512GB,6000mAh,65W
+209,Asus Zenfone 11 5G 8GB/256GB,Asus,18990000,Qualcomm Snapdragon 8 Gen 2 8 nhân,8GB,256GB,4300mAh,30W
+210,Xiaomi Mi 14 Ultra 16GB/512GB,Xiaomi,31990000,Qualcomm Snapdragon 8 Gen 3 8 nhân,16GB,512GB,5000mAh,50W
+211,Xiaomi Redmi Note 15 6GB/128GB,Xiaomi,4990000,MediaTek Dimensity 8300 8 nhân,6GB,128GB,5500mAh,33W
+212,OPPO Find X7 Pro 5G 16GB/1TB,OPPO,47990000,Qualcomm Snapdragon 8 Gen 3 8 nhân,16GB,1TB,5400mAh,100W
+213,realme GT Neo 6 5G 12GB/256GB,realme,13990000,MediaTek Dimensity 9000 8 nhân,12GB,256GB,5000mAh,65W
+214,Vivo V31 Pro 5G 8GB/256GB,Vivo,9990000,MediaTek Dimensity 1000 8 nhân,8GB,256GB,4500mAh,30W
+215,Vivo X80 5G 12GB/256GB,Vivo,17990000,MediaTek Dimensity 1200 8 nhân,12GB,256GB,5000mAh,44W
+216,Vivo V21e 5G 8GB/128GB,Vivo,10990000,MediaTek Dimensity 700 8 nhân,8GB,128GB,4000mAh,18W
+217,Realme 10 Pro 5G 8GB/128GB,realme,9990000,Qualcomm Snapdragon 695 8 nhân,8GB,128GB,5000mAh,33W
+218,Realme 10 5G 6GB/128GB,realme,8490000,Qualcomm Snapdragon 695 8 nhân,6GB,128GB,5000mAh,33W
+219,OPPO A77 5G 8GB/256GB,OPPO,13990000,MediaTek Dimensity 810 8 nhân,8GB,256GB,5000mAh,33W
+220,OPPO F19 Pro+ 5G 8GB/128GB,OPPO,12990000,MediaTek Dimensity 800U 8 nhân,8GB,128GB,4310mAh,30W
+221,Oppo Reno 8 5G 8GB/128GB,OPPO,11990000,Qualcomm Snapdragon 765G 8 nhân,8GB,128GB,4300mAh,30W
+222,Oppo A78 5G 6GB/128GB,OPPO,9990000,MediaTek Dimensity 700 8 nhân,6GB,128GB,5000mAh,33W
+223,Oppo Reno 6 5G 8GB/128GB,OPPO,11990000,Qualcomm Snapdragon 720G 8 nhân,8GB,128GB,4300mAh,30W
+224,Motorola Edge 30 Ultra 5G 16GB/512GB,Motorola,39990000,Qualcomm Snapdragon 8 Gen 3 8 nhân,16GB,512GB,4600mAh,80W
+225,Motorola Edge 30 Pro 5G 12GB/256GB,Motorola,28990000,Qualcomm Snapdragon 8 Gen 2 8 nhân,12GB,256GB,4800mAh,68W
+226,Motorola Moto G Power 5G 8GB/128GB,Motorola,15990000,Qualcomm Snapdragon 695 8 nhân,8GB,128GB,5000mAh,33W
+227,Motorola Razr 2023 8GB/256GB,Motorola,28990000,Qualcomm Snapdragon 8 Gen 2 8 nhân,8GB,256GB,3500mAh,30W
+228,Asus Zenfone 9 5G 8GB/256GB,Asus,17990000,Qualcomm Snapdragon 8 Gen 1 8 nhân,8GB,256GB,4300mAh,30W
+229,Asus Zenfone 8 5G 8GB/128GB,Asus,13990000,Qualcomm Snapdragon 870 8 nhân,8GB,128GB,4000mAh,30W
+230,Asus ROG Phone 7 5G 16GB/512GB,Asus,36990000,Qualcomm Snapdragon 8 Gen 3 8 nhân,16GB,512GB,6000mAh,65W
+231,Asus ROG Phone 7 Ultimate 5G 16GB/1TB,Asus,41990000,Qualcomm Snapdragon 8 Gen 3 8 nhân,16GB,1TB,6000mAh,65W
+232,Samsung Galaxy A14 5G 8GB/128GB,Samsung,6490000,Exynos 850 8 nhân,8GB,128GB,5000mAh,15W
+233,Samsung Galaxy M13 5G 6GB/128GB,Samsung,6990000,Exynos 850 8 nhân,6GB,128GB,5000mAh,15W
+234,Huawei P60 Pro 5G 12GB/256GB,Huawei,34990000,Qualcomm Snapdragon 8 Gen 2 8 nhân,12GB,256GB,4800mAh,66W
+235,Huawei Mate 50 Pro 5G 8GB/256GB,Huawei,29990000,Qualcomm Snapdragon 8 Gen 2 8 nhân,8GB,256GB,4700mAh,66W
+236,Huawei Nova 10 Pro 5G 8GB/128GB,Huawei,19990000,Qualcomm Snapdragon 778G 8 nhân,8GB,128GB,4500mAh,40W
+237,Honor Magic4 5G 12GB/256GB,Honor,28990000,Qualcomm Snapdragon 8 Gen 2 8 nhân,12GB,256GB,4600mAh,66W
+238,Honor 90 5G 8GB/128GB,Honor,16990000,Qualcomm Snapdragon 7 Gen 1 8 nhân,8GB,128GB,4500mAh,66W
+239,OnePlus 11 5G 12GB/256GB,OnePlus,24990000,Qualcomm Snapdragon 8 Gen 2 8 nhân,12GB,256GB,5000mAh,100W
+240,OnePlus 10 Pro 5G 12GB/256GB,OnePlus,22990000,Qualcomm Snapdragon 8 Gen 1 8 nhân,12GB,256GB,5000mAh,65W
+241,OnePlus 9RT 5G 8GB/128GB,OnePlus,15990000,Qualcomm Snapdragon 870 8 nhân,8GB,128GB,4500mAh,65W
+242,OnePlus Nord CE 3 5G 8GB/128GB,OnePlus,15990000,Qualcomm Snapdragon 695 8 nhân,8GB,128GB,4500mAh,33W
+243,OnePlus Nord 2T 5G 8GB/128GB,OnePlus,13990000,MediaTek Dimensity 1300 8 nhân,8GB,128GB,4500mAh,65W
+244,iPhone 12 64GB,iPhone,"12,990,000",Apple A14 Bionic,4GB,64GB,2815mAh,20W
+245,iPhone 12 Pro Max 128GB,iPhone,"17,490,000",Apple A14 Bionic,6GB,128GB,3687mAh,20W
+246,iPhone 11 64GB,iPhone,"10,990,000",Apple A13 Bionic,4GB,64GB,3110mAh,18W
+247,iPhone 11 Pro 64GB,iPhone,"13,490,000",Apple A13 Bionic,4GB,64GB,3046mAh,18W
+248,iPhone XS Max 64GB,iPhone,"14,990,000",Apple A12 Bionic,4GB,64GB,3174mAh,18W
+249,iPhone X 64GB,iPhone,"11,490,000",Apple A11 Bionic,3GB,64GB,2716mAh,18W
+250,Samsung Galaxy S10e 128GB,Samsung,"9,990,000",Exynos 9820,6GB,128GB,3100mAh,15W
+251,Samsung Galaxy S10 128GB,Samsung,"12,490,000",Exynos 9820,8GB,128GB,3400mAh,15W
+252,Samsung Galaxy S10+ 128GB,Samsung,"14,490,000",Exynos 9820,8GB,128GB,4100mAh,15W
+253,Samsung Galaxy Note 10 256GB,Samsung,"14,990,000",Exynos 9825,8GB,256GB,3500mAh,25W
+254,Samsung Galaxy Note 9 128GB,Samsung,"10,990,000",Exynos 9810,6GB,128GB,4000mAh,18W
+255,Samsung Galaxy Note 8 64GB,Samsung,"8,990,000",Exynos 8895,6GB,64GB,3300mAh,15W
+256,Samsung Galaxy A80 128GB,Samsung,"9,490,000",Snapdragon 730,8GB,128GB,3700mAh,25W
+257,Samsung Galaxy A70 128GB,Samsung,"7,990,000",Snapdragon 675,6GB,128GB,4500mAh,25W
+258,Samsung Galaxy A50 64GB,Samsung,"6,490,000",Exynos 9610,4GB,64GB,4000mAh,15W
+259,Xiaomi Mi 9T 64GB,Xiaomi,"6,290,000",Snapdragon 730,6GB,64GB,4000mAh,18W
+260,Xiaomi Mi 9 128GB,Xiaomi,"8,490,000",Snapdragon 855,6GB,128GB,3300mAh,27W
+261,Xiaomi Mi 8 64GB,Xiaomi,"6,490,000",Snapdragon 845,6GB,64GB,3400mAh,18W
+262,Xiaomi Redmi Note 9 Pro 128GB,Xiaomi,"6,990,000",Snapdragon 720G,6GB,128GB,5020mAh,30W
+263,Xiaomi Redmi Note 8 Pro 128GB,Xiaomi,"6,290,000",MediaTek Helio G90T,6GB,128GB,4500mAh,18W
+264,Xiaomi Redmi Note 7 64GB,Xiaomi,"4,990,000",Snapdragon 660,3GB,64GB,4000mAh,18W
+265,Xiaomi Redmi K20 64GB,Xiaomi,"7,490,000",Snapdragon 730,6GB,64GB,4000mAh,18W
+266,Xiaomi Mi A3 64GB,Xiaomi,"5,490,000",Snapdragon 665,4GB,64GB,4030mAh,18W
+267,OnePlus 7 Pro 128GB,OnePlus,"14,490,000",Snapdragon 855,6GB,128GB,4000mAh,30W
+268,OnePlus 6T 128GB,OnePlus,"10,490,000",Snapdragon 845,6GB,128GB,3700mAh,20W
+269,OnePlus 7T 128GB,OnePlus,"12,490,000",Snapdragon 855+,8GB,128GB,3800mAh,30W
+270,OnePlus 6 64GB,OnePlus,"8,990,000",Snapdragon 845,6GB,64GB,3300mAh,20W
+271,Huawei P30 128GB,Huawei,"12,490,000",Kirin 980,6GB,128GB,3650mAh,22.5W
+272,Huawei P30 Pro 128GB,Huawei,"14,990,000",Kirin 980,8GB,128GB,4200mAh,40W
+273,Huawei Mate 20 Pro 128GB,Huawei,"13,990,000",Kirin 980,6GB,128GB,4200mAh,40W
+274,Huawei Mate 10 Pro 64GB,Huawei,"9,490,000",Kirin 970,6GB,64GB,4000mAh,22.5W
+275,LG V40 ThinQ 64GB,LG,"9,990,000",Snapdragon 845,6GB,64GB,3300mAh,18W
+276,LG G7 ThinQ 64GB,LG,"8,490,000",Snapdragon 845,4GB,64GB,3000mAh,18W
+277,Sony Xperia XZ3 64GB,Sony,"11,490,000",Snapdragon 845,4GB,64GB,3330mAh,18W
+278,Sony Xperia XZ2 Premium 64GB,Sony,"9,490,000",Snapdragon 845,6GB,64GB,3540mAh,18W
+279,Google Pixel 4 XL 64GB,Google,"12,990,000",Snapdragon 855,6GB,64GB,3700mAh,18W
+280,Google Pixel 3 XL 64GB,Google,"9,490,000",Snapdragon 845,4GB,64GB,3430mAh,18W
+281,Nokia 7 Plus 64GB,Nokia,"7,490,000",Snapdragon 660,4GB,64GB,3800mAh,18W
+282,Nokia 6.1 32GB,Nokia,"5,990,000",Snapdragon 630,3GB,32GB,3000mAh,18W
+283,Motorola Moto Z4 128GB,Motorola,"7,990,000",Snapdragon 675,4GB,128GB,3600mAh,15W
+284,Motorola Moto G7 Plus 64GB,Motorola,"6,490,000",Snapdragon 636,4GB,64GB,3000mAh,18W
+285,Motorola One Vision 128GB,Motorola,"7,490,000",Exynos 9609,4GB,128GB,3500mAh,15W
+286,Motorola One Power 64GB,Motorola,"6,490,000",Snapdragon 636,4GB,64GB,5000mAh,18W
+287,HTC U11 64GB,HTC,"7,490,000",Snapdragon 835,4GB,64GB,3000mAh,18W
+288,HTC U12+ 64GB,HTC,"9,490,000",Snapdragon 845,6GB,64GB,3500mAh,18W
+289,ZTE Axon 9 Pro 128GB,ZTE,"9,990,000",Snapdragon 845,6GB,128GB,4000mAh,18W
+290,Lenovo Z6 Pro 128GB,Lenovo,"7,490,000",Snapdragon 855,6GB,128GB,4000mAh,27W
+291,Lenovo Z5 Pro 64GB,Lenovo,"6,490,000",Snapdragon 710,6GB,64GB,3350mAh,18W
+292,Vivo V15 Pro 128GB,Vivo,"9,490,000",Snapdragon 675,6GB,128GB,3700mAh,18W
+293,Vivo V11 Pro 64GB,Vivo,"7,490,000",Snapdragon 660,6GB,64GB,3400mAh,18W
+294,Samsung Galaxy S24 5G 8GB/256GB,Samsung,14590000,Exynos 2400,8 GB,256 GB,4000 mAh,25 W
+295,Xiaomi 14T 5G 12GB/256GB,Xiaomi,10990000,MediaTek Dimensity 8300 Ultra 8 nhân,12 GB,256 GB,5000 mAh,67 W
+296,Xiaomi 14T 5G 12GB/512GB Xanh,Xiaomi,10990000,MediaTek Dimensity 8300 Ultra 8 nhân,12 GB,512 GB,5000 mAh,67 W
+297,Xiaomi 14T 5G 12GB/512GB,Xiaomi,11190000,MediaTek Dimensity 8300 Ultra 8 nhân,12 GB,512 GB,5000 mAh,67 W
+298,Xiaomi 14T Pro 5G 12GB/256GB,Xiaomi,14490000,MediaTek Dimensity 9300+ 8 nhân,12 GB,256 GB,5000 mAh,120 W
+299,Xiaomi 14T Pro 5G 12GB/512GB,Xiaomi,14490000,MediaTek Dimensity 9300+ 8 nhân,12 GB,512 GB,5000 mAh,120 W
+300,OPPO A3 8GB/128GB,OPPO,5290000,Snapdragon 6s Gen 1 8 nhân,8 GB,128 GB,5100 mAh,45 W
+301,OPPO A38 6GB/128GB,OPPO,4590000,Snapdragon 6s Gen 1 8 nhân,6 GB,128 GB,5100 mAh,45 W
+302,OPPO A3 8GB/256GB,OPPO,5990000,Snapdragon 6s Gen 1 8 nhân,8 GB,256 GB,5100 mAh,45 W
+303,Tecno Spark GO 1 3GB/64GB,Tecno,1990000,Unisoc T615 8 nhân,3 GB,64 GB,5000 mAh,15 W
+304,OPPO Reno12 F 8GB/256GB,OPPO,7290000,,8 GB,256 GB,5000 mAh,45 W
+305,vivo Y19s 6GB/128GB,vivo,4290000,Unisoc Tiger T612,6 GB,128 GB,5500 mAh,15 W
+306,vivo Y19s 4GB/128GB,vivo,3990000,Unisoc Tiger T612,4 GB,128 GB,5500 mAh,15 W
+307,vivo Y19s 8GB/128GB,vivo,4590000,Unisoc Tiger T612,8 GB,128 GB,5500 mAh,15 W
+308,HONOR X8b 8GB/512GB,HONOR,5690000,,8 GB,512 GB,4500 mAh,35 W
+309,HONOR X6b 6GB/128GB Tím,HONOR,3590000,,6 GB,128 GB,5200 mAh,35 W
+310,iPhone 13 128GB,iPhone,11990000,,4 GB,128 GB,3240 mAh,20 W
+311,iPhone 13 512GB,iPhone,21990000,,4 GB,512 GB,3240 mAh,20 W
+312,iPhone 12 64GB,iPhone,9990000,,4 GB,64 GB,2815 mAh,20 W
+313,iPhone 12 128GB,iPhone,11590000,,4 GB,128 GB,2815 mAh,20 W
+314,iPhone 12 256GB,iPhone,14990000,,4 GB,256 GB,2815 mAh,20 W
+315,iPhone 12 64GB,iPhone,9990000,,4 GB,64 GB,2815 mAh,20 W
+316,iPhone 12 128GB,iPhone,11590000,,4 GB,128 GB,2815 mAh,20 W
+317,Xiaomi Redmi 13 6GB/128GB,Xiaomi,3690000,MediaTek Helio G91 Ultra 8 nhân,6 GB,128 GB,5030 mAh,33 W
+318,Xiaomi Redmi 13 8GB/128GB,Xiaomi,3490000,MediaTek Helio G91 Ultra 8 nhân,8 GB,128 GB,5030 mAh,33 W
+319,Xiaomi Redmi A3 3GB/64GB,Xiaomi,1790000,,3 GB,64 GB,5000 mAh,10 W
+320,Xiaomi Redmi A3 4GB/128GB,Xiaomi,,,4 GB,128 GB,5000 mAh,10 W
+321,Samsung Galaxy S25 5G 12GB/256GB,Samsung,19290000,Qualcomm Snapdragon 8 Elite For Galaxy 8 nhân,12 GB,256 GB,4000 mAh,25 W
+322,Samsung Galaxy S25 5G 12GB/512GB,Samsung,22290000,Qualcomm Snapdragon 8 Elite For Galaxy 8 nhân,12 GB,512 GB,4000 mAh,25 W
+323,Xiaomi Redmi 14C 6GB/128GB,Xiaomi,3390000,MediaTek Helio G81-Ultra 8 nhân,6 GB,128 GB,5160 mAh,18 W
+324,Xiaomi Redmi 14C 4GB/128GB,Xiaomi,2690000,MediaTek Helio G81-Ultra 8 nhân,4 GB,128 GB,5160 mAh,18 W
+325,OPPO Find X8 5G 16GB/512GB H?ng,OPPO,21990000,MediaTek Dimensity 9400 8 nhân,16 GB,512 GB,5630 mAh,80 W
+326,OPPO Find X8 Pro 5G 16GB/512GB,OPPO,25990000,MediaTek Dimensity 9400 8 nhân,16 GB,512 GB,5910 mAh,80 W
+327,realme 12 8GB/256GB,realme,6390000,,8 GB,256 GB,5000 mAh,67 W
+328,realme 12 8GB/512GB,realme,6790000,,8 GB,512 GB,5000 mAh,67 W
+329,vivo Y04 4GB/128GB,vivo,2990000,Unisoc T7225 8 nhân,4 GB,128GB,5500 mAh,15 W
+330,realme Note 60x 4GB/64GB,realme,2990000,Unisoc Tiger T612,4 GB,64 GB,5000 mAh,10 W
+331,realme Note 60x 3GB/64GB,realme,2590000,Unisoc Tiger T612,3 GB,64 GB,5000 mAh,10 W
+332,vivo V30e 5G 12GB/256GB,vivo,8990000,Snapdragon 6 Gen 1 8 nhân,12 GB,256 GB,5500 mAh,44 W
+333,realme Note 50 3GB/64GB,realme,2490000,Unisoc Tiger T612,3 GB,64 GB,5000 mAh,10 W
+334,Samsung Galaxy S10 128GB,Samsung,12490000,Exynos 9820,8GB,128GB,3400mAh,15W
+335,Samsung Galaxy S10+ 128GB,Samsung,14490000,Exynos 9820,8GB,128GB,4100mAh,15W
+336,Samsung Galaxy Note 10 256GB,Samsung,14990000,Exynos 9825,8GB,256GB,3500mAh,25W
+337,Samsung Galaxy Note 9 128GB,Samsung,10990000,Exynos 9810,6GB,128GB,4000mAh,18W
+338,Samsung Galaxy Note 8 64GB,Samsung,8990000,Exynos 8895,6GB,64GB,3300mAh,15W
+339,Samsung Galaxy A80 128GB,Samsung,9490000,Snapdragon 730,8GB,128GB,3700mAh,25W
+340,Samsung Galaxy A70 128GB,Samsung,7990000,Snapdragon 675,6GB,128GB,4500mAh,25W
+341,Samsung Galaxy A50 64GB,Samsung,6490000,Exynos 9610,4GB,64GB,4000mAh,15W
+342,Xiaomi Mi 9T 64GB,Xiaomi,6290000,Snapdragon 730,6GB,64GB,4000mAh,18W
+343,Xiaomi Mi 9 128GB,Xiaomi,8490000,Snapdragon 855,6GB,128GB,3300mAh,27W
+344,Xiaomi Mi 8 64GB,Xiaomi,6490000,Snapdragon 845,6GB,64GB,3400mAh,18W
+345,Xiaomi Redmi Note 9 Pro 128GB,Xiaomi,6990000,Snapdragon 720G,6GB,128GB,5020mAh,30W
+346,Xiaomi Redmi Note 8 Pro 128GB,Xiaomi,6290000,MediaTek Helio G90T,6GB,128GB,4500mAh,18W
+347,Xiaomi Redmi Note 7 64GB,Xiaomi,4990000,Snapdragon 660,3GB,64GB,4000mAh,18W
+348,Xiaomi Redmi K20 64GB,Xiaomi,7490000,Snapdragon 730,6GB,64GB,4000mAh,18W
+349,Xiaomi Mi A3 64GB,Xiaomi,5490000,Snapdragon 665,4GB,64GB,4030mAh,18W
+350,OnePlus 7 Pro 128GB,OnePlus,14490000,Snapdragon 855,6GB,128GB,4000mAh,30W
+351,OnePlus 6T 128GB,OnePlus,10490000,Snapdragon 845,6GB,128GB,3700mAh,20W
+352,OnePlus 7T 128GB,OnePlus,12490000,Snapdragon 855+,8GB,128GB,3800mAh,30W
+353,OnePlus 6 64GB,OnePlus,8990000,Snapdragon 845,6GB,64GB,3300mAh,20W
+354,Huawei P30 128GB,Huawei,12490000,Kirin 980,6GB,128GB,3650mAh,22.5W
+355,TCL 406s 4GB/64GB,TCL,1890000,,4 GB,64 GB,5000 mAh,10 W
+356,iPhone 16 Plus 128GB,iPhone,22690000,Apple A18 6 nhân,8 GB,128 GB,27 gi?,20 W
+357,iPhone 16 Plus 512GB,iPhone,31990000,Apple A18 6 nhân,8 GB,512 GB,27 gi?,20 W
+358,iPhone 16 Plus 256GB,iPhone,25990000,Apple A18 6 nhân,8 GB,256 GB,27 gi?,20 W
+359,iPhone 16 128GB,iPhone,19290000,Apple A18 6 nhân,8 GB,128 GB,22 gi?,20 W
+360,iPhone 16 256GB,iPhone,22990000,Apple A18 6 nhân,8 GB,256 GB,22 gi?,20 W
+361,iPhone 16 512GB,iPhone,28990000,Apple A18 6 nhân,8 GB,512 GB,22 gi?,20 W
+362,Samsung Galaxy S24 Ultra 5G 12GB/256GB,Samsung,23990000,Snapdragon 8 Gen 3 for Galaxy,12 GB,256 GB,5000 mAh,45 W
+363,Samsung Galaxy S24 Ultra 5G 12GB/512GB,Samsung,26090000,Snapdragon 8 Gen 3 for Galaxy,12 GB,512 GB,5000 mAh,45 W
+364,Samsung Galaxy A16 5G 8GB/256GB,Samsung,6990000,MediaTek Dimensity 6300 5G 8 nhân,8 GB,256 GB,5000 mAh,25 W
+365,Samsung Galaxy A16 5G 8GB/128GB,Samsung,6090000,MediaTek Dimensity 6300 5G 8 nhân,8 GB,128 GB,5000 mAh,25 W
+366,Xiaomi Redmi Note 14 Pro 5G 8GB/256GB,Xiaomi,8890000,MediaTek Dimensity 7300-Ultra 8 nhân,8 GB,256 GB,5110 mAh,45 W
+367,Xiaomi Redmi Note 14 Pro+ 5G 8GB/256GB,Xiaomi,9690000,Snapdragon 7s Gen 3 5G 8 nhân,8 GB,256 GB,5110 mAh,120 W
+368,OPPO Reno13 Pro 5G 12GB/512GB,OPPO,18490000,MediaTek Dimensity 8350 5G 8 nhân,12 GB,512 GB,5800 mAh,80 W
+369,OPPO Reno13 F 8GB/256GB,OPPO,8790000,MediaTek Helio G100 8 nhân,8 GB,256 GB,5800 mAh,45 W
+370,realme C65s 8GB/128GB,realme,4190000,Unisoc Tiger T612,8 GB,128 GB,5000 mAh,45 W
+371,realme C65s 6GB/128GB,realme,3690000,Unisoc Tiger T612,6 GB,128 GB,5000 mAh,45 W
+372,realme C65s 8GB/256GB,realme,4990000,Unisoc Tiger T612,8 GB,256 GB,5000 mAh,45 W
+373,vivo Y29 8GB/128GB,vivo,6490000,,8 GB,128 GB,6500 mAh,44 W
+374,vivo Y29 8GB/256GB,vivo,6990000,,8 GB,256 GB,6500 mAh,44 W
+375,HONOR X5b Plus 4GB/128GB,HONOR,2790000,,4 GB,128 GB,5200 mAh,10 W
+376,HONOR X5b 4GB/64GB,HONOR,2190000,,4 GB,64 GB,5200 mAh,10 W
+377,Samsung Galaxy Z Fold6 5G 12GB/256GB,Samsung,35690000,Snapdragon 8 Gen 3 for Galaxy,12 GB,256 GB,4400 mAh,25 W
+378,Samsung Galaxy Z Fold6 5G 12GB/512GB,Samsung,40290000,Snapdragon 8 Gen 3 for Galaxy,12 GB,512 GB,4400 mAh,25 W
+379,iPhone 15 Pro Max 256GB,iPhone,29990000,,8 GB,256 GB,4422 mAh,20 W
+380,iPhone 15 Pro Max 512GB,iPhone,34990000,,8 GB,512 GB,4422 mAh,20 W
+381,iPhone 15 Pro Max 1TB,iPhone,39990000,,8 GB,1 TB,4422 mAh,20 W
+382,Samsung Galaxy A06 4GB/64GB,Samsung,2890000,,4 GB,64 GB,5000 mAh,25 W
+383,Samsung Galaxy A06 6GB/128GB,Samsung,3490000,,6 GB,128 GB,5000 mAh,25 W
+384,Samsung Galaxy A06 4GB/128GB,Samsung,3190000,,4 GB,128 GB,5000 mAh,25 W
+385,iPhone 15 Plus 128GB,iPhone,19790000,,6 GB,128 GB,4383 mAh,20 W
+386,iPhone 15 Plus 256GB,iPhone,22790000,,6 GB,256 GB,4383 mAh,20 W
+387,Samsung Galaxy S9 64GB,Samsung,"8,990,000",Exynos 9810,4GB,64GB,3000mAh,15W
+388,Samsung Galaxy S9+ 64GB,Samsung,"9,490,000",Exynos 9810,6GB,64GB,3500mAh,15W
+389,Samsung Galaxy S8 64GB,Samsung,"7,990,000",Exynos 8895,4GB,64GB,3000mAh,15W
+390,Samsung Galaxy S8+ 64GB,Samsung,"8,490,000",Exynos 8895,4GB,64GB,3500mAh,15W
+391,Samsung Galaxy A71 128GB,Samsung,"10,990,000",Snapdragon 730,6GB,128GB,4500mAh,25W
+392,Samsung Galaxy A51 64GB,Samsung,"8,490,000",Exynos 9611,4GB,64GB,4000mAh,15W
+393,Xiaomi Mi 10 128GB,Xiaomi,"12,490,000",Snapdragon 865,8GB,128GB,4780mAh,30W
+394,Xiaomi Mi 10 Pro 256GB,Xiaomi,"16,490,000",Snapdragon 865,8GB,256GB,4500mAh,50W
+395,Xiaomi Mi Mix 3 128GB,Xiaomi,"9,490,000",Snapdragon 845,6GB,128GB,3800mAh,18W
+396,Xiaomi Mi 8 SE 64GB,Xiaomi,"5,490,000",Snapdragon 710,4GB,64GB,3120mAh,18W
+397,Xiaomi Redmi K20 Pro 128GB,Xiaomi,"8,990,000",Snapdragon 855,6GB,128GB,4000mAh,27W
+398,Xiaomi Redmi Note 10 Pro 128GB,Xiaomi,"8,990,000",Snapdragon 732G,6GB,128GB,5020mAh,33W
+399,Xiaomi Redmi Note 10 64GB,Xiaomi,"5,490,000",Snapdragon 678,4GB,64GB,48W,33W
+400,Huawei P40 128GB,Huawei,"16,990,000",Kirin 990,8GB,128GB,3800mAh,22.5W
+401,Huawei Mate 30 Pro 256GB,Huawei,"18,490,000",Kirin 990,8GB,256GB,4500mAh,40W
+402,Huawei P20 Pro 128GB,Huawei,"11,490,000",Kirin 970,6GB,128GB,4000mAh,22.5W
+403,Google Pixel 5 128GB,Google,"14,490,000",Snapdragon 765G,8GB,128GB,4080mAh,18W
+404,Google Pixel 4a 128GB,Google,"8,490,000",Snapdragon 730G,6GB,128GB,3140mAh,18W
+405,Google Pixel 3a 64GB,Google,"6,490,000",Snapdragon 670,4GB,64GB,3000mAh,18W
+406,OnePlus 7 Pro 256GB,OnePlus,"15,490,000",Snapdragon 855,8GB,256GB,4000mAh,30W
+407,OnePlus 7 128GB,OnePlus,"13,490,000",Snapdragon 855,6GB,128GB,3700mAh,20W
+408,OnePlus 6 64GB,OnePlus,"8,990,000",Snapdragon 845,6GB,64GB,3300mAh,20W
+409,OnePlus 5T 64GB,OnePlus,"6,490,000",Snapdragon 835,6GB,64GB,3300mAh,18W
+410,Oppo Reno 2F 128GB,Oppo,"7,990,000",MediaTek Helio P70,6GB,128GB,4000mAh,20W
+411,Oppo F11 Pro 128GB,Oppo,"9,490,000",MediaTek Helio P70,6GB,128GB,4000mAh,20W
+412,Oppo A9 128GB,Oppo,"6,490,000",Snapdragon 665,4GB,128GB,4020mAh,18W
+413,Oppo A5 2020 64GB,Oppo,"5,490,000",Snapdragon 665,4GB,64GB,5000mAh,18W
+414,Vivo V17 Pro 128GB,Vivo,"9,990,000",Snapdragon 675,8GB,128GB,4100mAh,18W
+415,Vivo V15 64GB,Vivo,"7,490,000",MediaTek Helio P70,6GB,64GB,4000mAh,18W
+416,Vivo V11 64GB,Vivo,"6,490,000",Snapdragon 660,6GB,64GB,3400mAh,18W
+417,LG G8X ThinQ 128GB,LG,"11,990,000",Snapdragon 855,6GB,128GB,4000mAh,21W
+418,LG V40 ThinQ 128GB,LG,"10,990,000",Snapdragon 845,6GB,128GB,3300mAh,18W
+419,LG V30+ 128GB,LG,"8,990,000",Snapdragon 835,4GB,128GB,3300mAh,18W
+420,Sony Xperia 10 II 128GB,Sony,"7,990,000",Snapdragon 665,4GB,128GB,3600mAh,18W
+421,Sony Xperia 1 128GB,Sony,"14,990,000",Snapdragon 855,6GB,128GB,3300mAh,18W
+422,Sony Xperia XZ2 Compact 64GB,Sony,"7,490,000",Snapdragon 845,4GB,64GB,2870mAh,18W
+423,Motorola Moto Z3 64GB,Motorola,"6,990,000",Snapdragon 835,4GB,64GB,3000mAh,15W
+424,Motorola Moto X4 64GB,Motorola,"6,490,000",Snapdragon 630,4GB,64GB,3000mAh,15W
+425,Motorola Moto G6 64GB,Motorola,"5,990,000",Snapdragon 450,4GB,64GB,3000mAh,15W
+426,ZTE Axon 7 64GB,ZTE,"6,990,000",Snapdragon 820,4GB,64GB,3250mAh,18W
+427,ZTE Blade V9 32GB,ZTE,"4,990,000",Snapdragon 450,3GB,32GB,3100mAh,10W
+428,Lenovo Legion Phone Duel 128GB,Lenovo,"14,990,000",Snapdragon 865+,12GB,128GB,5000mAh,90W
+429,Lenovo K10 Note 64GB,Lenovo,"5,490,000",Snapdragon 710,4GB,64GB,4050mAh,18W
+430,HTC U Ultra 64GB,HTC,"7,990,000",Snapdragon 821,4GB,64GB,3000mAh,18W
+431,HTC Desire 12+ 32GB,HTC,"4,490,000",Snapdragon 450,3GB,32GB,2965mAh,15W
+432,Huawei Nova 5T 128GB,Huawei,"10,990,000",Kirin 980,6GB,128GB,3750mAh,22.5W
+433,Huawei Honor View 20 128GB,Huawei,"11,490,000",Kirin 980,6GB,128GB,4000mAh,22.5W
+434,Huawei Mate 20 128GB,Huawei,"10,990,000",Kirin 980,6GB,128GB,4000mAh,22.5W
+435,Realme 6 Pro 128GB,Realme,"7,990,000",Snapdragon 720G,8GB,128GB,4300mAh,30W
+436,Realme X2 128GB,Realme,"6,990,000",Snapdragon 730G,6GB,128GB,4000mAh,30W
+437,Samsung Galaxy S7 32GB,Samsung,"6,490,000",Exynos 8890,4GB,32GB,3000mAh,15W
+438,Samsung Galaxy S7 Edge 32GB,Samsung,"7,490,000",Exynos 8890,4GB,32GB,3600mAh,15W
+439,Samsung Galaxy S6 32GB,Samsung,"5,490,000",Exynos 7420,3GB,32GB,2550mAh,15W
+440,Samsung Galaxy S6 Edge 32GB,Samsung,"6,490,000",Exynos 7420,3GB,32GB,2600mAh,15W
+441,Samsung Galaxy Note 10 256GB,Samsung,"19,990,000",Exynos 9825,8GB,256GB,3500mAh,25W
+442,Samsung Galaxy Note 10+ 256GB,Samsung,"22,990,000",Exynos 9825,12GB,256GB,4300mAh,25W
+443,Samsung Galaxy A30 64GB,Samsung,"6,490,000",Exynos 7904,4GB,64GB,4000mAh,15W
+444,Samsung Galaxy A50 64GB,Samsung,"8,490,000",Exynos 9610,4GB,64GB,4000mAh,15W
+445,Samsung Galaxy A70 128GB,Samsung,"10,990,000",Snapdragon 675,6GB,128GB,4500mAh,25W
+446,Samsung Galaxy A80 128GB,Samsung,"13,490,000",Snapdragon 730,8GB,128GB,3700mAh,25W
+447,Xiaomi Redmi Note 8 64GB,Xiaomi,"5,490,000",Snapdragon 665,4GB,64GB,4000mAh,18W
+448,Xiaomi Redmi Note 9 Pro 128GB,Xiaomi,"8,490,000",Snapdragon 720G,6GB,128GB,5020mAh,33W
+449,Xiaomi Redmi Note 10 128GB,Xiaomi,"7,490,000",Snapdragon 678,4GB,128GB,48W,33W
+450,Xiaomi Mi 9 128GB,Xiaomi,"8,990,000",Snapdragon 855,6GB,128GB,3300mAh,27W
+451,Xiaomi Mi 9T Pro 128GB,Xiaomi,"9,990,000",Snapdragon 855,6GB,128GB,4000mAh,27W
+452,Xiaomi Mi 10T 128GB,Xiaomi,"10,990,000",Snapdragon 865,8GB,128GB,5000mAh,33W
+453,Xiaomi Mi 10T Pro 256GB,Xiaomi,"13,990,000",Snapdragon 865,8GB,256GB,5000mAh,33W
+454,Huawei Mate 30 128GB,Huawei,"15,990,000",Kirin 990,8GB,128GB,4200mAh,40W
+455,Huawei Nova 5i Pro 128GB,Huawei,"10,990,000",Kirin 810,8GB,128GB,4000mAh,18W
+456,Huawei P30 128GB,Huawei,"14,490,000",Kirin 980,6GB,128GB,3650mAh,22.5W
+457,Huawei P30 Pro 256GB,Huawei,"18,490,000",Kirin 980,8GB,256GB,4200mAh,40W
+458,Google Pixel 4 64GB,Google,"12,990,000",Snapdragon 855,6GB,64GB,2800mAh,18W
+459,Google Pixel 4 XL 64GB,Google,"15,990,000",Snapdragon 855,6GB,64GB,3700mAh,18W
+460,Google Pixel 3 64GB,Google,"9,490,000",Snapdragon 845,4GB,64GB,2915mAh,18W
+461,Google Pixel 3 XL 64GB,Google,"11,990,000",Snapdragon 845,4GB,64GB,3430mAh,18W
+462,OnePlus 8 128GB,OnePlus,"13,990,000",Snapdragon 865,8GB,128GB,4300mAh,30W
+463,OnePlus 8 Pro 256GB,OnePlus,"17,990,000",Snapdragon 865,12GB,256GB,4510mAh,30W
+464,OnePlus 7T 128GB,OnePlus,"11,490,000",Snapdragon 855+,8GB,128GB,3800mAh,30W
+465,OnePlus 7 Pro 256GB,OnePlus,"15,990,000",Snapdragon 855,12GB,256GB,4000mAh,30W
+466,OnePlus 6T 128GB,OnePlus,"9,490,000",Snapdragon 845,6GB,128GB,3700mAh,20W
+467,Oppo Reno 3 Pro 128GB,Oppo,"9,490,000",MediaTek Helio P95,8GB,128GB,4025mAh,30W
+468,Oppo F15 128GB,Oppo,"7,990,000",MediaTek Helio P70,8GB,128GB,4025mAh,20W
+469,Oppo A91 128GB,Oppo,"6,990,000",MediaTek Helio P70,8GB,128GB,4025mAh,20W
+470,Oppo F9 64GB,Oppo,"6,490,000",MediaTek Helio P60,4GB,64GB,3500mAh,20W
+471,Oppo A5s 32GB,Oppo,"4,490,000",MediaTek Helio P35,3GB,32GB,4230mAh,10W
+472,Vivo V20 128GB,Vivo,"10,990,000",Snapdragon 720G,8GB,128GB,4000mAh,33W
+473,Vivo V17 128GB,Vivo,"9,490,000",Snapdragon 675,8GB,128GB,4500mAh,18W
+474,Vivo Y50 128GB,Vivo,"7,990,000",Snapdragon 665,8GB,128GB,5000mAh,18W
+475,Vivo Y19 128GB,Vivo,"6,490,000",MediaTek Helio P65,4GB,128GB,5000mAh,18W
+476,Vivo Y11 32GB,Vivo,"4,490,000",Snapdragon 439,3GB,32GB,5000mAh,10W
+477,LG V40 ThinQ 128GB,LG,"11,990,000",Snapdragon 845,6GB,128GB,3300mAh,18W
+478,LG G8 ThinQ 128GB,LG,"10,990,000",Snapdragon 855,6GB,128GB,3500mAh,21W
+479,LG V30+ 128GB,LG,"9,990,000",Snapdragon 835,4GB,128GB,3300mAh,18W
+480,Sony Xperia XZ2 Premium 64GB,Sony,"12,990,000",Snapdragon 845,6GB,64GB,3540mAh,18W
+481,Sony Xperia 10 II 128GB,Sony,"8,490,000",Snapdragon 665,4GB,128GB,3600mAh,18W
+482,Sony Xperia XZ1 Compact 32GB,Sony,"6,990,000",Snapdragon 835,4GB,32GB,2700mAh,18W
+483,Motorola Moto G7 Power 32GB,Motorola,"5,490,000",Snapdragon 632,3GB,32GB,5000mAh,15W
+484,Motorola Moto G6 64GB,Motorola,"6,990,000",Snapdragon 450,4GB,64GB,3000mAh,15W
+485,Motorola Moto Z2 Play 64GB,Motorola,"6,490,000",Snapdragon 626,4GB,64GB,3000mAh,15W
+486,ZTE Axon 7 64GB,ZTE,"7,990,000",Snapdragon 820,4GB,64GB,3250mAh,18W
+487,ZTE Blade V9 32GB,ZTE,"4,990,000",Snapdragon 450,3GB,32GB,3100mAh,18W
+488,Asus Zenfone 6 128GB,Asus,"13,990,000",Snapdragon 855,6GB,128GB,5000mAh,18W
+489,Asus Zenfone 5Z 64GB,Asus,"9,990,000",Snapdragon 845,6GB,64GB,3300mAh,18W
+490,Asus ROG Phone 2 512GB,Asus,"22,990,000",Snapdragon 855+,12GB,512GB,6000mAh,30W
+491,Realme X2 Pro 128GB,Realme,"12,490,000",Snapdragon 855+,8GB,128GB,4000mAh,50W
+492,Realme 6 Pro 128GB,Realme,"7,990,000",Snapdragon 720G,8GB,128GB,4300mAh,30W
+493,Realme 5 Pro 128GB,Realme,"6,490,000",Snapdragon 712,4GB,128GB,4035mAh,20W
+494,Realme C3 32GB,Realme,"4,490,000",MediaTek Helio G70,3GB,32GB,5000mAh,10W
+495,Infinix Zero 8 128GB,Infinix,"7,490,000",MediaTek Helio G90T,8GB,128GB,4500mAh,33W
+496,Infinix Hot 9 Pro 64GB,Infinix,"5,490,000",MediaTek Helio P22,4GB,64GB,5000mAh,18W
+497,Tecno Camon 12 Pro 64GB,Tecno,"5,990,000",MediaTek Helio P22,4GB,64GB,3500mAh,18W
+498,Tecno Pouvoir 3 Plus 32GB,Tecno,"4,490,000",MediaTek Helio P22,3GB,32GB,6000mAh,18W
+499,Lava Z66 32GB,Lava,"3,990,000",MediaTek Helio A20,3GB,32GB,4000mAh,10W
+500,Micromax IN Note 1 64GB,Micromax,"5,990,000",MediaTek Helio G85,4GB,64GB,5000mAh,18W
+501,Karbonn X9 32GB,Karbonn,"3,490,000",MediaTek MTK6737,3GB,32GB,2500mAh,10W
+502,Lava Agni 64GB,Lava,"5,990,000",MediaTek Helio G85,4GB,64GB,5000mAh,30W
+503,Alcatel 1S 32GB,Alcatel,"3,490,000",MediaTek MT6762,3GB,32GB,4000mAh,10W
+504,Doogee S88 Pro 64GB,Doogee,"8,490,000",MediaTek Helio P70,6GB,64GB,10000mAh,24W
+505,Ulefone Armor 7 128GB,Ulefone,"10,490,000",MediaTek Helio P90,8GB,128GB,5500mAh,18W
+506,Bluboo XPhone 32GB,Bluboo,"3,490,000",MediaTek MT6737,3GB,32GB,3000mAh,10W
+507,Cubot P30 64GB,Cubot,"5,490,000",MediaTek Helio P22,4GB,64GB,4000mAh,18W
+508,Blackview BV9500 64GB,Blackview,"7,990,000",MediaTek Helio P70,6GB,64GB,10000mAh,24W
+509,Doogee N20 64GB,Doogee,"5,490,000",MediaTek Helio P60,4GB,64GB,4500mAh,10W
+510,Oukitel C21 64GB,Oukitel,"4,990,000",MediaTek Helio P60,4GB,64GB,4000mAh,18W
+511,HomTom S99 64GB,HomTom,"6,490,000",MediaTek Helio P23,4GB,64GB,6300mAh,18W
+512,Leagoo M12 32GB,Leagoo,"3,490,000",MediaTek MT6762,3GB,32GB,3200mAh,10W
+513,Doogee X95 32GB,Doogee,"3,490,000",MediaTek MT6737,2GB,32GB,3300mAh,10W
+514,Blackview A80 Pro 64GB,Blackview,"5,990,000",MediaTek Helio P25,4GB,64GB,4000mAh,18W
+515,Ulefone Note 9P 64GB,Ulefone,"5,490,000",MediaTek Helio P60,4GB,64GB,4000mAh,18W
+516,Alcatel 1V 32GB,Alcatel,"3,990,000",MediaTek MT6739,2GB,32GB,3000mAh,10W
+517,Doogee S70 64GB,Doogee,"8,490,000",MediaTek Helio P23,4GB,64GB,5500mAh,24W
+518,Ulefone T1 64GB,Ulefone,"6,490,000",MediaTek Helio P25,4GB,64GB,3680mAh,18W
+519,Bluboo X6 32GB,Bluboo,"3,490,000",MediaTek MT6580,2GB,32GB,2000mAh,5W
+520,HomTom HT30 Pro 64GB,HomTom,"5,990,000",MediaTek Helio P20,4GB,64GB,5000mAh,18W
+521,Oukitel C15 Pro 32GB,Oukitel,"4,490,000",MediaTek MT6739,2GB,32GB,3000mAh,10W
+522,Ulefone Armor 3W 64GB,Ulefone,"8,990,000",MediaTek Helio P23,4GB,64GB,10300mAh,18W
+523,Doogee S55 64GB,Doogee,"6,490,000",MediaTek Helio P23,4GB,64GB,5500mAh,18W
+524,Oukitel K10000 Pro 64GB,Oukitel,"9,490,000",MediaTek MT6750,4GB,64GB,10000mAh,18W
+525,Cubot X19 64GB,Cubot,"5,990,000",MediaTek Helio P23,4GB,64GB,4000mAh,18W
+526,HomTom HT50 64GB,HomTom,"6,490,000",MediaTek Helio P23,4GB,64GB,5000mAh,18W
+527,Ulefone Armor 6E 64GB,Ulefone,"7,990,000",MediaTek Helio P70,6GB,64GB,5000mAh,18W
+528,Blackview BV6800 Pro 64GB,Blackview,"7,490,000",MediaTek Helio P25,4GB,64GB,6580mAh,18W
+529,Leagoo M9 Plus 32GB,Leagoo,"4,490,000",MediaTek MT6737,3GB,32GB,3000mAh,10W
+530,Doogee N100 64GB,Doogee,"5,990,000",MediaTek Helio P60,4GB,64GB,4500mAh,18W
+531,Oukitel U18 64GB,Oukitel,"6,990,000",MediaTek Helio P23,4GB,64GB,4000mAh,18W
+532,Ulefone Armor 7E 128GB,Ulefone,"9,990,000",MediaTek Helio P90,8GB,128GB,5500mAh,18W
+533,Bluboo S8 32GB,Bluboo,"3,990,000",MediaTek MT6750,3GB,32GB,3000mAh,10W
+534,HomTom HT30 32GB,HomTom,"4,490,000",MediaTek MT6737,3GB,32GB,4000mAh,10W
+535,Doogee X90 16GB,Doogee,"2,490,000",MediaTek MT6580,1GB,16GB,3000mAh,5W
+536,Ulefone Note 7 16GB,Ulefone,"2,490,000",MediaTek MT6737,2GB,16GB,3500mAh,5W
